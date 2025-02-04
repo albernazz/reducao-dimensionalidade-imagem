@@ -1,4 +1,4 @@
-
+# Redução de Dimensionalidade de Imagem
 
 Este projeto tem como objetivo aplicar técnicas de redução de dimensionalidade em imagens. A redução de dimensionalidade é uma etapa fundamental em muitos fluxos de trabalho de Machine Learning, ajudando a reduzir a complexidade dos dados e melhorar o desempenho dos modelos.
 
